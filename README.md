@@ -1,6 +1,6 @@
 ### Olá eu sou a Nicelle Mateus👋
 
-- 🌱 Estudando Java, javascript
+- 🌱 Estudando Java, javascript, front end
 - 😄 Pronouns: ela/dela
 
 <div align="center">
