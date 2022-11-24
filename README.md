@@ -1,6 +1,5 @@
 ### Olá eu sou a Nicelle Mateus👋
 
-- 🌱 Java, javascript, front end, react
 - 😄 Pronouns: ela/dela
 
 <div align="center">
